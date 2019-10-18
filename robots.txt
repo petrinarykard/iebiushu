@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://saewoocing.jethrosportfolio.com/sitemap.xml
